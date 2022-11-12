@@ -2,4 +2,4 @@
 This web app is made using WazirX API and displays top 100 cryptos of the market
 
 LIVE HERE : https://transcendent-jalebi-aa7976.netlify.app/
-<img src = "CrptoApp/Screenshot_Crypto.png">
+<img src = "Screenshot_Crypto.png">
